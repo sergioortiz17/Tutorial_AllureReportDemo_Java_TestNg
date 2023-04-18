@@ -54,7 +54,7 @@ ahora aparece al mismo nivel el testng.xml
 click derecho ahi dentro del file  testng.xml run as TestNG
 y me deberia correr los test en consola 
 
-ahora el tipo instalo allure y mvn 
+instalacion de allure y mvn 
 
 luego click derecho al proyecto maven update 
 
